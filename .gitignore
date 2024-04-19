@@ -27,6 +27,3 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-/out/
-/homework9.iml
-/.idea/
